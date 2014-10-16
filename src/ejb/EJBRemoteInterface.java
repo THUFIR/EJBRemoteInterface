@@ -8,4 +8,5 @@ public interface EJBRemoteInterface {
 
     String getResult();
     
+    public int getNext();
 }
