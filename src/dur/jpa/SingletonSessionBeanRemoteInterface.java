@@ -1,4 +1,4 @@
-package ejb;
+package dur.jpa;
 
 import javax.ejb.Remote;
 
